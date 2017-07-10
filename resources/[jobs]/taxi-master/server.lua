@@ -1,15 +1,5 @@
---[[
-##################
-#    Oskarr      #
-#    MysticRP    #
-#   server.lua   #
-#      2017      #
-##################
---]]
-
-require "resources/essentialmode/lib/MySQL"
-
-MySQL:open("IP", "gta5_gamemode_essential", "user", "pass")
+-- Loading MySQL Class
+require "resources/mysql-async/lib/MySQL"
 
 local taxijob = '5' -- Change by your job id for taxi
 local boss = 'steam:110000101001010' -- Boss 1 

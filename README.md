@@ -1,11 +1,11 @@
 **IF YOU FIND YOUR WORK IN THIS REPO WITHOUT THE CREDITS, PLEASE NOTIFY US, WE WILL KINDLY ADD YOU!**
 
-# La Life RP
+NewLifeRP
 
-[Discord](https://discord.gg/aiekillu)
+[Discord](SOON)
 Pour le support sur le scripting de FiveM en général.
 
-[Twitter](https://twitter.com/Lalife_rp)
+[Twitter](https://twitter.com/newliferp)
 
 **N'HÉSITEZ PAS À CONTRIBUER AVEC LES PULL REQUESTS!**
 

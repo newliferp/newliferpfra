@@ -2,6 +2,7 @@ inv_array_legal = {
     {name="Bouteille d'eau", id=1, price=5, value=20},
     {name="Sandwich", id=2, price=10, value=20},
     {name="Filet Mignon", id=3, price=100, value=40},
+    --{name="Sushis", id=28, price=150, value=50},
 }
 
 inv_array = {

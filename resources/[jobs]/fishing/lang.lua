@@ -2,7 +2,7 @@ msg = {}
 ------------------------------------
 -- en / fr / custom
 -- Select your lang.
-msg.lang = 'en' 
+msg.lang = 'fr' 
 
 ------------------------------------
 -- chatMessage

@@ -4,7 +4,7 @@ require "resources/mysql-async/lib/MySQL"
 local taxijob = '5' -- Change by your job id for taxi
 local boss = 'steam:110000101001010' -- Boss 1 
 local boss2 = 'steam:110000101001010' -- Boss 2 
-local tauxblanchiment = 0.85 -- 0.85 = 100 000 money -> 85 000 dirty money
+local tauxblanchiment = 0.70 -- 0.85 = 100 000 money -> 70 000 dirty money
 
 RegisterServerEvent('taxi:factureGranted')
 AddEventHandler('taxi:factureGranted', function(target, amount)
